@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm dinh loc</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-![image](https://github.com/dinkloc/dinkloc/assets/124766126/cc8cf92f-82c8-4527-a988-90d18f7d5845)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhlocng&label=Profile%20views&color=0e75b6&style=flat" alt="dinhlocng" /> </p>
 
 - 🌱 I’m currently learning **Node.js, Microservices**
